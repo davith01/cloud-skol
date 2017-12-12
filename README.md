@@ -1,6 +1,6 @@
 # Cloud Services Framework
 
-# [cloud-skol](http://git/cloud-skol.com)
+# [cloud-skol](https://github.com/davith01/cloud-skol)
 
 [![Demo](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
 [![Documentation](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
