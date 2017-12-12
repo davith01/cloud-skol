@@ -2,10 +2,6 @@
 
 # [cloud-skol](https://github.com/davith01/cloud-skol)
 
-## Theme Demo
-# [Demo](http://demo)
-# [Documentation](http://documentation)
- 
 Cloud Services Framework is a sleek, intuitive, and powerful front-end framework for faster and easier VAS cloud services, 
 
 This Framework uses the Gentelella styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards.
