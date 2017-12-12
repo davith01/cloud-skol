@@ -1,0 +1,16 @@
+{
+	"routers":   {
+		"role_system": {
+			"href": "#!/rolSystem",
+			"controller": "routeCtr",
+			"redirectTo": "/rolSystem",
+			"templateUrl": "/views/role-system/index"
+		},
+		"user_system": {
+			"href": "#!/userSystem",
+			"controller": "routeCtr",
+			"redirectTo": "/userSystem",
+			"templateUrl": "/views/user-system/index"
+		}
+	}
+}

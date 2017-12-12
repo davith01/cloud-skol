@@ -1,0 +1,33 @@
+{
+  "es": {
+		"appName": "Skol&Serna",
+		"appTitle": "Sistema de gestión de Riesgos",
+		"copyRigth": "2017 All Rights Reserved. Skol&Serna LTDA!",
+		"footer": {
+			"title": "Bootstrap Admin Template by",
+			"href" : "https://Skol.com",
+			"name": "Skol"				
+		},
+		"traslate": {
+			"Welcome": "Bienvenido",
+			"Username": "Nombre de usuario",
+			"Password": "Contraseña",
+			"Login_Form": "Formulario de Ingreso",
+			"Log_In": "Ingresar",
+			"Lost_Your_Password": "Recuperar contraseña",
+			"NewToSite": "Nuevo en este sitio",
+			"AlreadyaMember": "Ya es un miembro",
+			"Create_Account": "Crear Cuenta",
+			"Email": "Email",
+			"PrivacityAndTerms": "Términos y Condiciones",
+			"FormSearch": "Formulario de Consulta",
+			"SeachObjectiveType": "Búsqueda de personas comprometidas",
+			"Submit": "Enviar",
+			"General": "General",
+			"Administration" : "Administración",
+			"Configuration" : "Configuración",
+			"SystemUsers" : "Usuarios de sistema",
+			"UserRoles": "Roles de Usuario"
+		}
+	}
+}

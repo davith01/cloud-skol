@@ -1,0 +1,34 @@
+{
+  "name": "cloud-skol",
+  "version": "0.1.0",
+  "authors": [
+    "David Camacho <davithc01@gmail.com>",
+	"Luis Urrea <>"
+  ],
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendors/",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.7",
+    "angular-route": "^1.6.7",
+    "bootstrap": "^3.3.7",
+    "bootstrap-tag": "^0.0.1",
+    "fastclick": "^1.0.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "nprogress": "^0.2.0",
+    "typeahead.js": "^0.11.1",
+    "chart.js": "Chart.js#^2.7.1",
+    "gojs": "^1.8.4",
+    "jsplumb": "^2.5.8"
+  }
+}
