@@ -3,8 +3,8 @@
 # [cloud-skol](https://github.com/davith01/cloud-skol)
 
 ## Theme Demo
-# [Demo]()
-# [Documentation]()
+# [Demo](http://demo)
+# [Documentation](http://documentation)
  
 Cloud Services Framework is a sleek, intuitive, and powerful front-end framework for faster and easier VAS cloud services, 
 
